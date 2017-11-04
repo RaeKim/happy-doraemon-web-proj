@@ -1,0 +1,28 @@
+a:hover{
+   color : red;
+}
+
+h1 {
+  font-size: 60px;
+  text-align: center;
+  font-family: 'Josefin Slab', serif;
+}
+
+p{
+  font-size: 30px;
+  text-align: center;
+  font-family: 'Josefin Slab', serif;
+}
+
+img{
+  display: block;
+  margin: 0 auto;
+}
+
+li {
+  font-size: 20px;
+  font-family: 'Alegreya Sans SC', sans-serif;
+  text-align: center;
+  line-height: 2;
+  letter-spacing: 1px;
+}
