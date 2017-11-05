@@ -22,7 +22,12 @@ img{
 li {
   font-size: 20px;
   font-family: 'Alegreya Sans SC', sans-serif;
-  text-align: center;
   line-height: 2;
   letter-spacing: 1px;
+}
+
+.reason-list{
+  width:600px;
+  margin:0 auto;
+  text-align:left;
 }
